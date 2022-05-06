@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img_speed{
+    width: 150px;
+    border-radius: 100px;
+}
+
+#img_volume{
+    width: 150px;
+    border-radius: 100px;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+
+.note{
+    font-size: 16px;
+    color: white;
+}
+
+.heading{
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+}
+
+#volume{
+    color: rgb(255, 0, 119);
+}
+
+#speed{
+    color: rgb(255, 0, 119);
+}
+
+#play{
+    
+}
